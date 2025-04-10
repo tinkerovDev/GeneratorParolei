@@ -1,4 +1,4 @@
-console.log('by TinkerASD');
+console.log('tinkerovDev');
 document.getElementById('generate').addEventListener('click', function() {
     const length = 12; // Длина пароля
     const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+[]{}|;:,.<>?';
